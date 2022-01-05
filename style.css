@@ -1,0 +1,42 @@
+#heading{
+font-size: 40px;
+background-color: #ff00bf;
+font-family: 'Moon Dance', cursive;
+font-weight: bold;
+color: #000000;
+}
+#instructions{
+font-size: 30px;
+background-color: white;
+font-family:  'Dancing Script', cursive;
+line-height: 1;
+width: 100%;
+}
+.div_speed{
+float: left;
+}
+.div_speed_img,.div_volume_img{
+width: 200px;
+border-radius: 100px;
+}
+#speed,#volume{
+font-size: 25px;
+margin: 15px;
+}
+.div_volume{
+float: right;
+}
+#play{
+
+font-size: 35px;
+background-color: red;
+font-family: 'Dancing Script', cursive;
+font-weight: bold;
+padding:10px;
+width: 150px;
+color: black;
+}
+canvas{
+border-radius: 20px;
+border: 5px solid yellow;
+}
